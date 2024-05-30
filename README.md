@@ -15,6 +15,9 @@ I am a passionate Full Stack Web Developer with a keen interest in software deve
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arghadip-Chatterjee&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏆 HacktoberFest 2022 Badges
+[![An image of @arghadip_chatterjee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arghadip_chatterjee)](https://holopin.io/@arghadip_chatterjee)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
@@ -27,4 +30,4 @@ I am a passionate Full Stack Web Developer with a keen interest in software deve
 ---
 [![](https://visitcount.itsvg.in/api?id=Arghadip-Chatterjee&icon=2&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
